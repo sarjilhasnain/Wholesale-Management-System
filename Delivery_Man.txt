@@ -1,0 +1,12 @@
+USER STORIES - DELIVERY MAN
+=============================
+
+US11 | View assigned deliveries
+Benefit: Efficient delivery management
+Acceptance: I log in and see a list of orders assigned for delivery today with address and contact info.
+Feature Area: Delivery Management
+
+US12 | Update delivery status
+Benefit: Accurate tracking of order status
+Acceptance: I mark orders as delivered, pending, or failed. System updates status in real-time.
+Feature Area: Delivery Management

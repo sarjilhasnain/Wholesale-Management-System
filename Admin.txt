@@ -1,0 +1,37 @@
+USER STORIES - ADMIN
+=====================
+
+US1 | Log in to the system
+Benefit: Secure access to system features
+Acceptance: I enter valid username and password and successfully access the dashboard.
+Feature Area: Authentication
+
+US2 | Add new shoe products
+Benefit: Products are available for sale
+Acceptance: I enter product name, brand, size, category, price, and stock quantity. Product appears in product list.
+Feature Area: Product Management
+
+US3 | Update product details
+Benefit: Product information stays accurate
+Acceptance: I edit product details and save changes. Updated information is visible immediately.
+Feature Area: Product Management
+
+US5 | Add customer information
+Benefit: Easy customer tracking
+Acceptance: I enter customer details and save. Customer profile is created successfully.
+Feature Area: Customer Management
+
+US7 | Generate invoice
+Benefit: Accurate billing
+Acceptance: Invoice is automatically generated with correct totals and stored in the system.
+Feature Area: Sales & Billing
+
+US10 | Manage supplier information
+Benefit: Smooth product supply
+Acceptance: I add or update supplier details and save successfully.
+Feature Area: Supplier Management
+
+US15 | Manage user roles and permissions
+Benefit: Secure system access
+Acceptance: I assign roles (Retailer, Shop Manager, Delivery Man) and define permissions successfully.
+Feature Area: Authentication / Admin

@@ -1,0 +1,17 @@
+USER STORIES - OWNER
+======================
+
+US8 | View sales and inventory reports
+Benefit: Better business decision making
+Acceptance: I select a time range and system displays sales, inventory, and profit reports correctly.
+Feature Area: Reporting
+
+US10 | Manage supplier information
+Benefit: Smooth product supply
+Acceptance: I add or update supplier details and save successfully.
+Feature Area: Supplier Management
+
+US15 | Manage user roles and permissions
+Benefit: Secure system access
+Acceptance: I assign roles (Retailer, Shop Manager, Delivery Man) and define permissions successfully.
+Feature Area: Authentication / Admin

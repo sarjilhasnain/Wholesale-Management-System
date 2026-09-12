@@ -1,0 +1,17 @@
+USER STORIES - RETAILER
+=========================
+
+US6 | Create a wholesale or retail order
+Benefit: Faster order processing
+Acceptance: I select customer, products, and quantities. Order appears with a confirmed status.
+Feature Area: Order Management
+
+US13 | Browse available products
+Benefit: Easy shopping experience
+Acceptance: I can view product catalog, filter by category/size/brand, and select items to order or buy.
+Feature Area: Product Management
+
+US14 | Track my order
+Benefit: Know delivery status and timing
+Acceptance: I log in and see my current order status and expected delivery time.
+Feature Area: Order Management

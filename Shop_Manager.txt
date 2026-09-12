@@ -1,0 +1,37 @@
+USER STORIES - SHOP MANAGER
+=============================
+
+US2 | Add new shoe products
+Benefit: Products are available for sale
+Acceptance: I enter product name, brand, size, category, price, and stock quantity. Product appears in product list.
+Feature Area: Product Management
+
+US3 | Update product details
+Benefit: Product information stays accurate
+Acceptance: I edit product details and save changes. Updated information is visible immediately.
+Feature Area: Product Management
+
+US4 | Manage inventory levels
+Benefit: Accurate stock tracking
+Acceptance: Stock quantity updates automatically after sales, purchases, or returns.
+Feature Area: Inventory Management
+
+US5 | Add customer information
+Benefit: Easy customer tracking
+Acceptance: I enter customer details and save. Customer profile is created successfully.
+Feature Area: Customer Management
+
+US6 | Create a wholesale or retail order
+Benefit: Faster order processing
+Acceptance: I select customer, products, and quantities. Order appears with a confirmed status.
+Feature Area: Order Management
+
+US7 | Generate invoice
+Benefit: Accurate billing
+Acceptance: Invoice is automatically generated with correct totals and stored in the system.
+Feature Area: Sales & Billing
+
+US9 | Monitor low-stock products
+Benefit: Timely restocking
+Acceptance: System highlights products below minimum stock level and sends alert notifications.
+Feature Area: Inventory Management
